@@ -1,2 +1,8 @@
-# Universal-Code-Editor
-Developed a cross-language code editor that enables users to write and execute programs in multiple programming languages simultaneously without requiring additional extensions. Designed for efficiency, the editor streamlines development workflows by eliminating the need for separate installations, enhancing accessibility for developers
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
